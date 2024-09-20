@@ -21,7 +21,7 @@ This project involves the design and implementation of a cargo transportation sy
 - **Return**: Returning goods to their owner.
 - **System**: An integrated set of interconnected elements.
 - **Wallet**: A new feature for online payments.
-
+for more Glossary please check the document.
 ## Use Cases
 
 ### Customer
@@ -40,10 +40,14 @@ This project involves the design and implementation of a cargo transportation sy
 
 - **Insurance Management**: Review and renew insurance for goods and vehicles.
 - **Transaction Report**: Review financial transactions.
+- 
+for more Use Cases please check the document.
 
 ## Diagrams
 
-This section includes level and behavior diagrams that illustrate various processes of the system.
+This section includes  many diagrams such as level and behavior diagrams that illustrate various processes of the system.
+
+ for more Diagrams please check the document.
 
 ## Contribution
 
